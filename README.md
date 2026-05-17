@@ -2,4 +2,4 @@
 
 * [About the App](./About)
 * [Support](./Support)
-* [Privacy Policy](./Policy)
+* [Privacy Policy](./Privacy)
