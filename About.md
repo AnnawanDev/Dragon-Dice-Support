@@ -17,4 +17,5 @@ Leave the plastic behind, or back up your favorite set, with a digital dice roll
 * Tap your chosen polyhedral die.
 * Set your dice count and add your character's modifiers.
 * Smash the ROLL button (or if enabled in settings, shake your device) and let the fates decide your destiny!
+* Click the result panel to see individual die rolls instead of the summary. Click again to go back.
 * Your next great adventure is just a roll away. Download Dragon Dice today and let the critical hits commence!
