@@ -1,5 +1,5 @@
 # Dragon Dice Support
 
-* [About the App](./About.md)
-* [Support](./Support.md)
-* [Privacy Policy](./Policy.md)
+* [About the App](./About)
+* [Support](./Support)
+* [Privacy Policy](./Policy)
