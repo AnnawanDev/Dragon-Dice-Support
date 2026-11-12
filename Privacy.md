@@ -4,7 +4,7 @@
 
 Your privacy is incredibly important to us. This Privacy Policy explains how **Dragon Dice** handles information when you use our iOS mobile application. 
 
-The short answer is: **We don't collect, store, or share your personal data.** We do collect anonymous usage data, such as which dice get rolled most, to help us understand how the app is used and to improve it. You can turn this off at any time in Settings (see Section 3).
+The short answer is: **We don't collect, store, or share your personal data.** We do collect anonymous usage data, such as which dice get rolled most, to help us understand how the app is used and to improve it. See Section 3 for details.
 
 ---
 
@@ -18,7 +18,7 @@ Dragon Dice is built with a "privacy by design" philosophy.
 ## 2. On-Device Storage
 Any data generated within the app—such as your custom character settings, dice preferences, or roll history—is stored **locally on your own iOS device**. 
 * Your saved settings and roll history are never uploaded or backed up to our servers.
-* The only exception is the anonymous usage statistics described in Section 3, which you can turn off in Settings.
+* The only exception is the anonymous usage statistics described in Section 3, which never include personal information.
 * If you delete the app, this locally stored data will be permanently removed from your device.
 
 ## 3. Anonymous Usage Analytics (TelemetryDeck)
@@ -29,7 +29,7 @@ Dragon Dice uses [TelemetryDeck](https://telemetrydeck.com), a privacy-first ana
   * **Features and settings:** which features and settings are used, such as your chosen Tavern Hero, Shake to Roll, Stay Awake, and whether the tip screen is opened or a tip is made.
   * **Technical information:** app version, iOS version, device model, and language/region settings.
 * **What is not sent:** We do not send your name, email address, Apple ID, location, contacts, payment information, or any other personally identifiable information.
-* **How to opt out:** You can turn off anonymous usage statistics at any time in the app's **Settings**. Once turned off, no further usage data is sent from your device.
+* **No in-app opt-out:** Anonymous usage statistics are a built-in part of the app and can't currently be turned off. Because this data is anonymous and can't be linked to you, it can't be used to identify you or your activity.
 * **Anonymized identifiers:** To count unique users without identifying them, TelemetryDeck uses a randomly generated identifier that is hashed (and salted) before it leaves your device and hashed again on TelemetryDeck's servers. Neither we nor TelemetryDeck can use it to identify you or to track you across other apps or websites.
 * **No IP address storage:** TelemetryDeck does not store your IP address.
 * **No advertising or selling:** This data is never used for advertising, never sold, and never combined with data from other sources.
