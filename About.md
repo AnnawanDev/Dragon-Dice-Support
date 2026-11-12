@@ -10,10 +10,12 @@ Leave the plastic behind, or back up your favorite set, with a digital dice roll
 * Calculate with Precision: Easily add or subtract custom stat modifiers to your pool. Your final total is calculated instantly, complete with a detailed breakdown so you can track exactly how your dice landed.
 * Immersive Fantasy Aesthetic: Game in style with a beautifully crafted, thematic interface that feels right at home next to your character sheets and miniatures.
 * Fate in a Shake: Want that authentic, physical feel? Turn on the Shake to Roll feature in your settings to cast your dice with a flick of your wrist.
+* Choose Your Tavern Hero: Pick who sits across the table while you roll—the battle-hardened Barbarian, the keen-eyed Elf Ranger, or the wise Wizard. Change your companion anytime in Settings → Tavern Hero.
 * Never Lose Focus: Don't let a sleeping screen ruin a clutch moment. Toggle the Stay Awake setting to keep your digital dice tray active and ready throughout the entire gaming session.
 
 ## HOW TO PLAY:
 
+* Pick your Tavern Hero in Settings → Tavern Hero (optional—the Barbarian is ready if you're not).
 * Tap your chosen polyhedral die.
 * Set your dice count and add your character's modifiers.
 * Smash the ROLL button (or if enabled in settings, shake your device) and let the fates decide your destiny!
